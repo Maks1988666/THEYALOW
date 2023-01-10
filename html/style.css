@@ -1,5 +1,6 @@
 body {
-    margin: auto ;
+    margin: auto;
+    width: 40%;
 }
 .topnav {
     margin: auto;
@@ -14,4 +15,8 @@ body {
     float: left;
     margin-right: 7px;
     color: brown ;
+}
+
+.img {
+    background-color: #a12c2c;
 }
