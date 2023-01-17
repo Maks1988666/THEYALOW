@@ -1,22 +1,17 @@
-body {
+.body {
     margin: auto;
     width: 40%;
 }
+.contener_topnav {
+    background: rgb(234, 198, 37);
+    padding: 40px;
+    font-size: 25px;
+}
+
 .topnav {
-    margin: auto;
-    padding: 20px 55px;
+    background: rgb(234, 198, 37);
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
-    align-items: center;
+    align-items: stretch;
     }
-
-.theyalow {
-
-    float: left;
-    margin-right: 7px;
-    color: brown ;
-}
-
-.img {
-    background-color: #a12c2c;
-}
